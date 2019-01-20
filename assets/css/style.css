@@ -1,0 +1,37 @@
+
+
+
+#title {
+    background-color: red;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#pac-container{
+    position: relative;
+    text-align: center;
+    
+    
+}
+
+.pac-controls{
+    text-align: center;
+}
+
+.pac-card {
+    border-style : solid;
+    text-align: center;
+}
+
+.pac-controls label {
+    font-size: 10px;
+    
+    text-align: center;
+}
+
+#map {
+    min-height: 360px;
+}
+
+
