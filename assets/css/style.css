@@ -1,5 +1,4 @@
-
-
+@import url('https://fonts.googleapis.com/css?family=Happy+Monkey');
 
 #title {
     background-color: red;
@@ -11,24 +10,19 @@
 #pac-container{
     position: relative;
     text-align: center;
+    font-family: 'Happy Monkey', cursive;
     
-    
-}
-
-.pac-controls{
-    text-align: center;
 }
 
 .pac-card {
     border-style : solid;
     text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
 }
 
-.pac-controls label {
-    font-size: 10px;
-    
-    text-align: center;
-}
+
 
 #map {
     min-height: 360px;
